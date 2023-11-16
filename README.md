@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SERRY SINGH</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3GB1C33wnQ-mG8qWDMCSxJ&ust=1700244005097000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiG_tGMyYIDFQAAAAAdAAAAABAR"> 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/SerrySingh/SerrySingh/assets/123100425/fc8c63f1-8389-4024-b5a7-837b24d1ff47)
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serrysingh&label=Profile%20views&color=0e75b6&style=flat" alt="serrysingh" /> </p>
 
