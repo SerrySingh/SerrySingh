@@ -15,8 +15,7 @@
 
 
 <div>
-        <h3>Results-oriented BCA grad with 6-month Python/Data Science internship, pursuing MCA through distance learning.
-        Currently onsite as a DevOps Engineer, skilled in AWS, Docker, Kubernetes, CI/CD, Bash scripting. Adaptable, committed, seeking opportunities in DevOps.</h3>
+        <h3>Currently, I am expanding my skill set through a Junior DevOps Engineer at Techocloud, Ludhiana, a leading cloud service provider in India. Here, I am gaining proficiency in Linux, Bash, and AWS, as well as learning how to automate, configure, and monitor software development and deployment processes. With my growing expertise in these areas, I am eager to contribute to the tech industry and take on new challenges in the field of DevOps.</h3>
     </div>
 
 <br><br>
