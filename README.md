@@ -15,7 +15,7 @@
 
 
 <div>
-        <h3>Currently, I am expanding my skill set through a Junior DevOps Engineer at Techocloud, Ludhiana, a leading cloud service provider in India. Here, I am gaining proficiency in Linux, Bash, and AWS, as well as learning how to automate, configure, and monitor software development and deployment processes. With my growing expertise in these areas, I am eager to contribute to the tech industry and take on new challenges in the field of DevOps.</h3>
+        <h3>Currently, DevOps Engineer with a strong background in deploying and managing cloud infrastructure and applications. Proficient in leveraging AWS services, Docker, Terraform, and Ansible to build and automate scalable, resilient environments. Adept at implementing CI/CD pipelines using Jenkins, optimizing software development and deployment processes. Skilled in containerization, infrastructure as code, and scripting. Demonstrates hands-on experience in managing and deploying applications on cloud platforms, ensuring seamless operations and continuous improvement..</h3>
     </div>
 
 <br><br>
