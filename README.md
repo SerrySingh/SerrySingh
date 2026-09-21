@@ -79,6 +79,29 @@ DevOps Engineer with 3+ years of hands-on experience in AWS, Linux, CI/CD, Docke
 
 ---
 
+# 🚀 Open-Source DevOps Reference Projects
+
+| Category | Repository | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Cloud & IaC** | [**terraform-aws-infrastructure**](https://github.com/SerrySingh/terraform-aws-infrastructure) | Terraform, AWS, Checkov | 3-tier VPC, Multi-AZ RDS, ALB, ASG, S3 encryption, DevSecOps |
+| **Cloud & IaC** | [**aws-devops-examples**](https://github.com/SerrySingh/aws-devops-examples) | AWS CLI v2, ECS Fargate, SSM | Battle-tested CLI automation, ECS task definitions, secret rotation |
+| **Containers** | [**docker-deployment-examples**](https://github.com/SerrySingh/docker-deployment-examples) | Docker, Compose, Hadolint | Multi-stage unprivileged builds for Node, Python, Laravel, WP, Magento |
+| **Containers** | [**kubernetes-deployment-examples**](https://github.com/SerrySingh/kubernetes-deployment-examples) | K8s, Kustomize, HPA | Multi-env overlays (dev/staging), PSS compliance, zero-downtime |
+| **CI/CD** | [**github-actions-devops**](https://github.com/SerrySingh/github-actions-devops) | GitHub Actions, Trivy, OIDC | Reusable DevSecOps workflows, AWS OIDC auth, Gitleaks scanning |
+| **CI/CD** | [**jenkins-cicd-pipelines**](https://github.com/SerrySingh/jenkins-cicd-pipelines) | Jenkins, Groovy, Docker | Declarative CI/CD pipelines, security gates, automated rollbacks |
+| **Applications** | [**nodejs-react-deployment**](https://github.com/SerrySingh/nodejs-react-deployment) | React, Node.js, Express, PG | Full-stack DevOps command center with Nginx reverse proxy |
+| **Applications** | [**python-fastapi-deployment**](https://github.com/SerrySingh/python-fastapi-deployment) | FastAPI, Redis, PostgreSQL | Asynchronous microservice with caching and live health probes |
+| **Applications** | [**laravel-deployment**](https://github.com/SerrySingh/laravel-deployment) | Laravel, PHP-FPM, MySQL, Redis | Zero-downtime deployment, background queue workers & scheduler |
+| **Applications** | [**magento-deployment**](https://github.com/SerrySingh/magento-deployment) | Magento 2, OpenSearch, Redis | High-performance eCommerce stack with catalog indexing & Varnish |
+| **Applications** | [**wordpress-deployment**](https://github.com/SerrySingh/wordpress-deployment) | WordPress, Nginx, MariaDB | Security hardened (XML-RPC blocked), Redis cache, backup scripts |
+| **Reliability & Ops** | [**devops-backup-recovery**](https://github.com/SerrySingh/devops-backup-recovery) | Restic, AWS S3, Systemd | Disaster recovery framework, streaming DB dumps, automated drills |
+| **Reliability & Ops** | [**linux-server-hardening**](https://github.com/SerrySingh/linux-server-hardening) | Bash, UFW, Fail2ban, SSH | CIS benchmark server security baseline scripts for Ubuntu/Debian |
+| **Reliability & Ops** | [**monitoring-stack**](https://github.com/SerrySingh/monitoring-stack) | Prometheus, Grafana, Alertmgr | Complete observability stack with alerting rules and dashboards |
+| **Automation** | [**devops-scripts**](https://github.com/SerrySingh/devops-scripts) | Bash (`set -euo pipefail`) | Production maintenance, disk capacity warnings, Docker cleanup |
+| **Governance** | [**open-source-devops-toolkit**](https://github.com/SerrySingh/open-source-devops-toolkit) | Markdown, SRE Playbooks | Production readiness checklists, ADRs, and incident post-mortems |
+
+---
+
 # Projects
 
 ### 1. Microservices Application — AWS Production Deployment
